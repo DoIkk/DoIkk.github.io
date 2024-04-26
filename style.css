@@ -136,3 +136,36 @@ dd {
 #right {
   padding-left: 2em;
 }
+/* 기술 스킬 아이콘 */
+.skill-icon::before {
+    font-family: "Font Awesome 5 Free"; /* 아이콘 폰트 설정 */
+    display: inline-block; /* 아이콘을 인라인 블록 요소로 표시 */
+    margin-right: 8px; /* 아이콘과 텍스트 사이의 공간 */
+    width: 1.3em; /* 아이콘의 너비 */
+  }
+  
+  /* 각 언어별로 다른 아이콘을 지정 */
+  .fa-python::before {
+    content: "\f3e2"; /* 파이썬 아이콘 */
+  }
+  
+  .fa-c::before {
+    content: "\f699"; /* C 언어 아이콘 (예시 코드, 실제 코드를 확인해주세요) */
+  }
+  
+  .fa-cpp::before {
+    content: "\fb9c"; /* C++ 언어 아이콘 (예시 코드, 실제 코드를 확인해주세요) */
+  }
+  
+  .fa-github::before {
+    content: "\fab fa-github"; /* GitHub 아이콘 */
+  }
+  
+  .fa-java::before {
+    content: "\f4e4"; /* 자바 아이콘 (예시 코드, 실제 코드를 확인해주세요) */
+  }
+  
+  .fa-mysql::before {
+    content: "\f596"; /* MySQL 아이콘 (예시 코드, 실제 코드를 확인해주세요) */
+  }
+  
