@@ -1,4 +1,4 @@
-<h1 align="center"> JiSeonNam</h1>
+<h1 align="center"> DOIKKIM</h1>
 
 <h3>경력</h3>
 단국대
