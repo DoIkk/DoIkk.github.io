@@ -1,12 +1,12 @@
 <h1 align="center"> DOIKKIM</h1>
 
-<h3>경력</h3>
-단국대
+<h3>학력</h3>
+단국대 Mobile System Engineering
 
 <h3>프로젝트</h3>
 2번의 ML 프로젝트
 
-<h3>목표</h3>
+<h3>관심사</h3>
 백엔드,프론트엔드에 관심이 있습니다.
 
 <h3>🛠stacks</h3>
